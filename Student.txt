@@ -3,3 +3,5 @@ Welcome to the ABC school
 Student name:
 Date of Birth:
 Gender:
+
+Thank you choosing this school !!
