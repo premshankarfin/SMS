@@ -1,1 +1,5 @@
 Welcome to the ABC school
+
+Student name:
+Date of Birth:
+Gender:
